@@ -7,11 +7,10 @@
 int main(void)
 {
 	/**
-	 * puts - Ouutputs a string literal
+	 * puts - Outputs a string literal
 	 *
-	 * Return: String literal
 	 */
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
 
