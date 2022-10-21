@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
  * main - prints the largest of three integers
@@ -10,8 +9,9 @@ int main(void)
 	int a;
 	int b;
 	int c;
+	int largest;
 
-	a = 92;
+	a = 972;
 	b = -98;
 	c = 0;
 
